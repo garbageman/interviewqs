@@ -1,0 +1,21 @@
+Web Development Questions
+
+Basic Javascript
+1. What is the difference between == and === in javascript?
+2. What is the difference between using let and var when declaring a variable?
+
+Intermediate Javascript
+1. What is the difference between declaring a function with => vs just a normal
+declaration?
+2.
+
+
+Advanced Javascript
+1.
+
+
+React
+
+
+Angular
+1. Whats a compelling reason to be using angular?
